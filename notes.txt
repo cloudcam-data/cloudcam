@@ -33,3 +33,5 @@ Look for inet
 // start
 
 sudo nano /etc/profile sudo python3 /home/pi/pi-camera-stream-flask/main.py (all one cmd)
+
+cd /home/pi git clone https://github.com/cloudcam-data/cloudcam.git
